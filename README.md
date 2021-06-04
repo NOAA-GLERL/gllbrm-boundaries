@@ -24,7 +24,7 @@ The Laurentian Great Lakes hydrologic basin and subbasin boundaries were develop
 These data are free and open for public use.  Note due to the methods used when these boundaries were digitized, the shapefiles included here preserve area, but generalize the shape and boundary locations.  There are small gaps and overlaps between the lake basins when all basin boundaries are displayed together because these lake basins were digitized separately using a projection customized for each particular basin.  The difference in area between these basins and modern delineations (e.g., Watershed Boundary Dataset) are less than 1%.
 
 
-##References
+## References
 Croley II, T.E., 1982. Great Lakes basins runoff modeling. NOAA Great Lakes Environmental Research Laboratory, Ann Arbor, MI. NOAA Tech. Memo. ERL GLERL, 39, p.96. https://www.glerl.noaa.gov/pubs/tech_reports/glerl-039/tm-039.pdf
 
 Croley II, T.E., 1983a. Great Lake basins (USA-Canada) runoff modeling. Journal of Hydrology, 64(1-4), pp.135-158. https://doi.org/10.1016/0022-1694(83)90065-3
