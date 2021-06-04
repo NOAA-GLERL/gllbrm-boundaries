@@ -1,5 +1,5 @@
 # gllbrm-boundaries
-Great Lakes region basin and subbasin boundaries for the Large Basin Runoff Model (LBRM) developed by the NOAA Great Lakes Environmental Research Laboratory
+Great Lakes (GL) basin and subbasin boundaries for the Large Basin Runoff Model (LBRM) developed by the NOAA Great Lakes Environmental Research Laboratory
 
 ## Dataset Authors
 Thomas E. Croley II, Holly C. Hartmann
